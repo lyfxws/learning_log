@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d877759e-3303-4577-a1bc-20d682f14eb5" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="d877759e-3303-4577-a1bc-20d682f14eb5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
+>>>>>>> 666
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +69,7 @@
           <entry key="auth_user" value="2" />
           <entry key="gitignor" value="1" />
           <entry key="gitignore" value="10" />
-          <entry key="html" value="7" />
+          <entry key="html" value="8" />
           <entry key="learning_logs_entry" value="2" />
           <entry key="learning_logs_topic" value="2" />
           <entry key="placeholder" value="1" />
@@ -73,7 +80,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="6" />
-          <entry key="HTML" value="7" />
+          <entry key="HTML" value="8" />
           <entry key="PLAIN_TEXT" value="16" />
           <entry key="Python" value="14" />
           <entry key="Web2Py" value="1" />
@@ -83,14 +90,22 @@
         <counts>
           <entry key="Procfile" value="43" />
           <entry key="gitignore" value="67" />
+<<<<<<< HEAD
           <entry key="html" value="1238" />
+=======
+          <entry key="html" value="1245" />
+>>>>>>> 666
           <entry key="py" value="2388" />
           <entry key="txt" value="162" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="HTML" value="1238" />
+=======
+          <entry key="HTML" value="1245" />
+>>>>>>> 666
           <entry key="PLAIN_TEXT" value="272" />
           <entry key="Python" value="2388" />
         </counts>
@@ -102,8 +117,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="150">
               <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+=======
+            <state relative-caret-position="180">
+              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+>>>>>>> 666
             </state>
           </provider>
         </entry>
@@ -256,7 +276,11 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15298508" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15298508" />
+>>>>>>> 666
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -270,7 +294,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32962137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -296,6 +320,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learning_logs/index.html" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -303,6 +328,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 666
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/django/urls/conf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
@@ -437,6 +464,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
