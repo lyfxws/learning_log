@@ -27,7 +27,7 @@ Django==2.2.1
 django-bootstrap3==11.0.0
 django-cors-headers==3.0.1
 django-filter==2.1.0
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 et-xmlfile==1.0.1
 Flask==0.12.2
 Flask-Migrate==2.1.1
