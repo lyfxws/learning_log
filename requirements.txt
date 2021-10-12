@@ -57,7 +57,7 @@ mysql==0.0.2
 mysqlclient==1.4.2.post1
 nltk==3.4.1
 numpy==1.16.3
-opencv-python==4.1.0.25
+opencv-python==4.1.1.26
 openpyxl==2.6.2
 pandas==0.24.2
 parsel==1.5.1
