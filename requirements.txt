@@ -61,7 +61,7 @@ opencv-python==4.1.0.25
 openpyxl==2.6.2
 pandas==0.24.2
 parsel==1.5.1
-Pillow==6.0.0
+Pillow==9.3.0
 Pint==0.9
 plac==0.9.6
 preshed==2.0.1
